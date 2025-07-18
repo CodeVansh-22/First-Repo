@@ -1,0 +1,11 @@
+h2{
+    background-color: aqua;
+    color: yellow;
+}
+table{
+    border: 5px dotted red;
+}
+td{
+    background-color: cadetblue;
+    color: aliceblue;
+}
